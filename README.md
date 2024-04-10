@@ -14,7 +14,6 @@
   - [x] "Safe Config" to prevent config dumps
 - [ ] Dependency Support
   - [x] ESX
-  - [ ] Qbus
   - [x] Overextended
 
 # Contributing
