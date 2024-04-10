@@ -12,7 +12,7 @@
   - [ ] German
 - [ ] Script Security
   - [x] "Safe Config" to prevent config dumps
-- [ ] Dependency Support
+- [x] Dependency Support
   - [x] ESX
   - [x] Overextended
 
