@@ -1,0 +1,12 @@
+{
+    "garage_label": "%s: Garage",
+    "put_vehicle_away": "Put vehicle away",
+    "no_vehicle": "No vehicles found.",
+    "garage_vehicle_description": "Plate: %s",
+    "get_vehicle": "Getting vehicle out of garage...",
+    "putting_vehicle_away": "Putting vehicle away...",
+    "get_out_garage": "Get out of garage",
+    "gasoline_level": "Gasoline Level",
+    "damage_percentage": "Damage Percentage",
+    "vehicle_label": "Vehicle: %s"
+}

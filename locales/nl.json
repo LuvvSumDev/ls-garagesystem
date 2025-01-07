@@ -1,0 +1,12 @@
+{
+    "garage_label": "%s: Garage",
+    "put_vehicle_away": "Zet voertuig weg",
+    "no_vehicle": "Geen voertuigen gevonden.",
+    "garage_vehicle_description": "Kenteken: %s",
+    "get_vehicle": "Voertuig uit garage aan het halen...",
+    "putting_vehicle_away": "Voertuig aan het weg zetten...",
+    "get_out_garage": "Haal uit garage",
+    "gasoline_level": "Benzinelevel",
+    "damage_percentage": "Schadepercentage",
+    "vehicle_label": "Voertuig: %s"
+}
